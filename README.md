@@ -1,2 +1,2 @@
 # Web-Server
-basic Web Server in Golang
+Basic Web Server in Golang
